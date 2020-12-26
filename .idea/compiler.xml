@@ -7,7 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springdatajpaexercise" />
+        <module name="langTraining" />
         <module name="concurrency" />
+        <module name="spring-data-jpa-exercise" />
       </profile>
     </annotationProcessing>
   </component>
